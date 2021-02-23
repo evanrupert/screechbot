@@ -1,21 +1,4 @@
 # Screechbot
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `screechbot` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:screechbot, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/screechbot](https://hexdocs.pm/screechbot).
+Screechbot is a discord bot that, when given a user, it will follow them into all voice channels and play a screeching sound until they leave.
 
