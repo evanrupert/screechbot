@@ -24,3 +24,5 @@ screechbot-*.tar
 
 # Language Server Build
 /.elixir_ls
+
+.DS_Store
